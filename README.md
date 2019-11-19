@@ -32,9 +32,11 @@
   
   **Conclusiones.**
   
-  - JavaScript son las instrucciones escritas en un fichero con extensión .js y podemos conectar a nuestro código html para poder           acceder a las funciones para las tareas que van a realizar en nuestra página, como es el caso de las validaciones de esta practica       para los botones de Inicio, Atras y Adelante.
+    JavaScript son las instrucciones escritas en un fichero con extensión .js y podemos conectar a nuestro código html para poder           acceder a las funciones para las tareas que van a realizar en nuestra página, como es el caso de las validaciones de esta practica       para los botones de Inicio, Atras y Adelante.
 
   
   **Recomendaciones.**
   
   - Estructurar el código para evitar confusiones, usando comentarios y carpetas.
+  
+  - Probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari
