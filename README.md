@@ -10,3 +10,16 @@
  **Codigo html**
  
  **Codigo css**
+
+  **Resultados Obtenidos**
+  
+  - Se pudo diseñar la galeria con 10 imagenes en su interfaz.
+  
+  **Conclusiones.**
+  
+  - JavaScript son las instrucciones escritas en un fichero con extensión .js y podemos conectar a nuestro código html para poder acceder     a las funciones para las tareas que van a realizar en nuestra página, como es el caso de las validaciones de esta practica para los       botones de Inicio, Atras y Adelante.
+
+  
+  **Recomendaciones.**
+  
+  - Estructurar el código para evitar confusiones, usando comentarios y carpetas.
