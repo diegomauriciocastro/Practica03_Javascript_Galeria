@@ -1,0 +1,54 @@
+body {
+    margin: auto;
+    text-align: center;
+    background-image: url(../imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    background-size: auto;
+    
+        
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-block-style: solid;
+    padding-top: 20%;
+}
+
+#imagen {
+
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+
+#inicio{
+    
+    background-color: yellowgreen;
+    width: 30%;
+    height: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+#siguiente{
+   right: 80px;
+   height: 60px;
+   width: 100px;
+   background-color: darkgoldenrod;
+
+}
+
+#anterior{
+    right: 80px;
+    height: 60px;
+    width: 100px;
+    background-color: darkgoldenrod;
+
+ }
+h1{
+    text-align: center;
+}
